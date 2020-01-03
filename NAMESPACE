@@ -2,4 +2,5 @@
 
 export(gh_auth)
 export(gh_get)
+export(gh_get_repo)
 export(pat_github)
