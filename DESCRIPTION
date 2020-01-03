@@ -14,3 +14,5 @@ RoxygenNote: 7.0.1
 Imports: 
     httr,
     stringr
+URL: https://github.com/skaltman/github
+BugReports: https://github.com/skaltman/github/issues
