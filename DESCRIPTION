@@ -1,0 +1,16 @@
+Package: github
+Title: Tools for working with the GitHub API
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sara",
+           family = "Altman",
+           role = c("aut", "cre"),
+           email = "skaltman@stanford.edu")
+Description: Tools for working with the GitHub API.
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
+Imports: 
+    httr,
+    stringr
